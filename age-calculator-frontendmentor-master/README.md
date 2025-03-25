@@ -55,6 +55,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Aditya Yaduvanshi](https://adityayads.vercel.app/)
-- Frontend Mentor - [@adityayaduvanshi](https://www.frontendmentor.io/profile/adityayaduvanshi)
-- Twitter - [@fixslyr](https://www.twitter.com/fixslyr)
+sricharan reddy
+sricharanreddyboda@gmail.com
